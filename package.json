@@ -1,0 +1,12 @@
+{
+    "name": "chat.io"
+  , "description": "example chat application with socket.io"
+  , "version": "0.0.1"
+  , "dependencies": {
+        "express": "2.5.0"
+      , "jade": "0.12.1"
+      , "stylus": "0.18.0"
+      , "nib": "0.0.8"
+      , "socket.io": "0.8.5"
+    }
+}
